@@ -9,7 +9,7 @@
 With **8+ years** of hands-on experience in diverse tech stacks, I have successfully delivered software solutions that impact projects worth **hundreds of millions** while collaborating with teams of up to **13 members**. I specialize in:
 
 - **Front-end:** React, React Native, Flutter, Redux, Bootstrap, Sass, Tailwind, Ant Design, Material Design, Styled Components  
-- **Back-end:** Node.js, NestJS, Laravel  
+- **Back-end:** Node.js, NestJS
 - **Databases & Storage:** MySQL, PostgreSQL, MongoDB, Redis, Kafka, S3, Cloudinary  
 - **Languages:** JavaScript, TypeScript, Dart, Python, PHP
 
