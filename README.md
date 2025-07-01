@@ -14,7 +14,7 @@ With **8+ years** of hands-on experience in diverse tech stacks, I have successf
 - **Languages:** JavaScript, TypeScript, Dart, Python, PHP
 
 ## 💼 Work Experience  
-I've worked with **NXT Technology, HealthStation, Darey.io, Yakili, Doftwerks, Harde University, and Bimbs Tech**, building web and mobile solutions that improve efficiency, user engagement, and revenue. Check out my [LinkedIn](https://www.linkedin.com/in/moses-oderinde) for more details!
+I've worked with **HealthStation, Darey.io, Yakili, Doftwerks, Harde University, and Bimbs Tech**, building web and mobile solutions that improve efficiency, user engagement, and revenue. Check out my [LinkedIn](https://www.linkedin.com/in/moses-oderinde) for more details!
 
 
 ## 🚀 Projects
